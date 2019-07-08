@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 3749a4313c40161458c89457e92246cc
+timeCreated: 1468385595
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera_Perspective3
+    100002: Non_subD
+    100004: Non_subD.2
+    100006: Non_subD.3
+    100008: Plane
+    100010: subD
+    100012: subD_1
+    100014: subD_2
+    100016: subD_3
+    100018: subD_4
+    100020: subD_5
+    100022: subD_6
+    100024: subD_7
+    100026: subD_8
+    100028: subD_RAD_H
+    100030: subD_RAD_VL
+    100032: subD_RAD_VR
+    100034: subDx
+    100036: subDx.2
+    100038: subDx.3
+    100040: //RootNode
+    100042: Tractor_HN
+    100044: V-Ray Area
+    400000: Camera_Perspective3
+    400002: Non_subD
+    400004: Non_subD.2
+    400006: Non_subD.3
+    400008: Plane
+    400010: subD
+    400012: subD_1
+    400014: subD_2
+    400016: subD_3
+    400018: subD_4
+    400020: subD_5
+    400022: subD_6
+    400024: subD_7
+    400026: subD_8
+    400028: subD_RAD_H
+    400030: subD_RAD_VL
+    400032: subD_RAD_VR
+    400034: subDx
+    400036: subDx.2
+    400038: subDx.3
+    400040: //RootNode
+    400042: Tractor_HN
+    400044: V-Ray Area
+    2300000: Non_subD
+    2300002: Non_subD.2
+    2300004: Non_subD.3
+    2300006: Plane
+    2300008: subD
+    2300010: subD_1
+    2300012: subD_2
+    2300014: subD_3
+    2300016: subD_4
+    2300018: subD_5
+    2300020: subD_6
+    2300022: subD_7
+    2300024: subD_8
+    2300026: subDx
+    2300028: subDx.2
+    2300030: subDx.3
+    3300000: Non_subD
+    3300002: Non_subD.2
+    3300004: Non_subD.3
+    3300006: Plane
+    3300008: subD
+    3300010: subD_1
+    3300012: subD_2
+    3300014: subD_3
+    3300016: subD_4
+    3300018: subD_5
+    3300020: subD_6
+    3300022: subD_7
+    3300024: subD_8
+    3300026: subDx
+    3300028: subDx.2
+    3300030: subDx.3
+    4300000: Plane
+    4300002: subDx.3
+    4300004: Non_subD.3
+    4300006: subDx
+    4300008: Non_subD
+    4300010: subD
+    4300012: subD_1
+    4300014: subD_3
+    4300016: subD_5
+    4300018: subD_7
+    4300020: subD_2
+    4300022: subD_8
+    4300024: subD_6
+    4300026: subD_4
+    4300028: subDx.2
+    4300030: Non_subD.2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
